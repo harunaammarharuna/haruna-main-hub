@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Cyber Security Lab Projects:</h2>
 
-  - [Active Home Directory](https://github.com)
   - [127.0.0.1](https://127.0.0.1)
 
 <h2>📺 Certification </h2>
