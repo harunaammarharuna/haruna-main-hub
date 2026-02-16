@@ -1,6 +1,6 @@
 <h1>Hi, I'm Haruna! </h1>
 
-<h2>👨‍💻 Cyber Security Lab Projects:</h2>
+<h2>👨‍💻 Cybersecurity Lab Projects:</h2>
 
   - [web-vulnerability-assessment-lab-using-kali](https://github.com/harunaammarharuna/web-vulnerability-assessment-lab-using-kali)
   - [Hands-On-Network-Security-SSL-SSH-DoS](https://github.com/harunaammarharuna/Hands-On-Network-Security-SSL-SSH-DoS/tree/main/Network-Security-SSL-SSH-DoS)
