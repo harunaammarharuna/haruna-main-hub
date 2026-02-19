@@ -4,6 +4,8 @@
 
   - [web-vulnerability-assessment-lab-using-kali](https://github.com/harunaammarharuna/web-vulnerability-assessment-lab-using-kali)
   - [Hands-On-Network-Security-SSL-SSH-DoS](https://github.com/harunaammarharuna/Hands-On-Network-Security-SSL-SSH-DoS/tree/main/Network-Security-SSL-SSH-DoS)
+  - [Network-Security-Operations](https://github.com/harunaammarharuna/Network-Security-Operations)
+
 
 <h2>📺 Certification </h2>
 Google Professional Cybersecurity
